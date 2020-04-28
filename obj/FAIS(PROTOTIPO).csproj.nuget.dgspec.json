@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO).csproj": {}
+    "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\Fais-Prototipo-\\FAIS(PROTOTIPO).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO).csproj": {
+    "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\Fais-Prototipo-\\FAIS(PROTOTIPO).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO).csproj",
+        "projectUniqueName": "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\Fais-Prototipo-\\FAIS(PROTOTIPO).csproj",
         "projectName": "FAIS(PROTOTIPO)",
-        "projectPath": "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO).csproj",
+        "projectPath": "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\Fais-Prototipo-\\FAIS(PROTOTIPO).csproj",
         "packagesPath": "C:\\Users\\Irvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO)\\obj\\",
+        "outputPath": "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\Fais-Prototipo-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Irvin\\AppData\\Roaming\\NuGet\\NuGet.Config",

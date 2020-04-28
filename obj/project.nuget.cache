@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+hwA6koOfo2Vj5f5RsJDsgYv3Z06itY7deLobd0nMga4L4Qi8XRJp8IM7bsbGrKQdntGKOCq5CMZh/bXM2AHA==",
+  "dgSpecHash": "Ti668zhG8R13gAJtYjnbC7ajDVFfMs63CPGryvWh9PZ6DgB+LQayK7D8lKRIn1Zfh6tmMbxDfYLGHdFmnsD+EQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO)\\FAIS(PROTOTIPO).csproj",
+  "projectFilePath": "C:\\Users\\Irvin\\Downloads\\FAIS(PROTOTIPO)\\Fais-Prototipo-\\FAIS(PROTOTIPO).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Irvin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Irvin\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
