@@ -2,7 +2,7 @@
 @{
     ViewData["Title"] = "Acerca";
 }
-
+ 
 <!--A Design by W3layouts
 Author: W3layout
 Author URL: http://w3layouts.com
@@ -27,27 +27,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
     <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <!-- //font -->
-    <script src="js/jquery-1.11.1.min.js"></script>
-    <script src="js/bootstrap.js"></script>
+    <script src="~/js/jquery-1.11.1.min.js"></script>
+    <script src="~/js/bootstrap.js"></script>
 </head>
-
 <body>
     <div class="header-top-w3layouts">
         <div class="container">
             <div class="col-md-6 logo-w3">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index"> <img src="~/images/logo2.png" alt=" " /><h1>                F  A  I  S </h1></a>
-
+                <a href="Index"><img src="~/images/logo2.png" alt=" " /><h1>FASHION<span>CLUB</span></h1></a>
             </div>
             <div class="col-md-6 phone-w3l">
                 <ul>
                     <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span></li>
-                    <li>998-7049</li>
+                    <li>+18045403380</li>
                 </ul>
             </div>
             <div class="clearfix"></div>
         </div>
     </div>
-
     <div class="header-bottom-w3ls">
         <div class="container">
             <div class="col-md-7 navigation-agileits">
@@ -62,12 +59,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     </div>
                     <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
                         <ul class="nav navbar-nav ">
-                            <li><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">INICIO</a></li>
-
-
-
+                            <li><a href="Index" class="hyper "><span>Inicio</span></a></li>
                             <li class="dropdown ">
-                                <a href="#" class="dropdown-toggle  hyper" data-toggle="dropdown"><span>ROPA<b class="caret"></b></span></a>
+                                <a href="#" class="dropdown-toggle  hyper" data-toggle="dropdown"><span>Clothing<b class="caret"></b></span></a>
                                 <ul class="dropdown-menu multi">
                                     <div class="row">
                                         <div class="col-sm-4">
@@ -129,10 +123,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                     </div>
                                 </ul>
                             </li>
-                            <li><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Acerca">SOBRE NOSOTROS</a></li>
-                            <li><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="contactanos">CONTACTANOS</a></li>
-                            @*<li><a href="~/Acerca.cshtml" class="hyper"><span>SOBRE NOSOTROS</span></a></li>
-                                <li><a href="contactanos" class="hyper"><span>CONTACTANOS</span></a></li>*@
+                            <li class=" active"><a href="About" class="hyper"><span>Acerca de</span></a></li>
+                            <li><a href="Contactanos" class="hyper"><span>Contactenos</span></a></li>
                         </ul>
                     </div>
                 </nav>
@@ -150,19 +142,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         }
                     );
                 });
-                <script>
-                    $(document).ready(function () {
-                        $(".dropdown").hover(
-                            function () {
-                                $('.dropdown-menu', this).stop(true, true).slideDown("fast");
-                                $(this).toggleClass('open');
-                            },
-                            function () {
-                                $('.dropdown-menu', this).stop(true, true).slideUp("fast");
-                                $(this).toggleClass('open');
-                            }
-                        );
-                            });
             </script>
             <div class="col-md-4 search-agileinfo">
                 <form action="#" method="post">
@@ -195,31 +174,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <p>Dignissimos at vero eos et accusamus et iusto odio ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecat officia. </p>
                     <div class="about-w3ls-row">
                         <script type="text/javascript">
-                                                        $(window).load(function () {
-                                        $("#flexiselDemo3").flexisel({
-                                            visibleItems: 2,
-                                            animationSpeed: 1000,
-                                            autoPlay: false,
-                                            autoPlaySpeed: 3000,
-                                            pauseOnHover: true,
-                                            enableResponsiveBreakpoints: true,
-                                            responsiveBreakpoints: {
-                                                portrait: {
-                                                    changePoint: 480,
-                                                    visibleItems: 2
-                                                },
-                                                landscape: {
-                                                    changePoint: 640,
-                                                    visibleItems: 2
-                                                },
-                                                tablet: {
-                                                    changePoint: 768,
-                                                    visibleItems: 2
-                                                }
-                                            }
-                                        });
+                            $(window).load(function () {
+                                $("#flexiselDemo3").flexisel({
+                                    visibleItems: 2,
+                                    animationSpeed: 1000,
+                                    autoPlay: false,
+                                    autoPlaySpeed: 3000,
+                                    pauseOnHover: true,
+                                    enableResponsiveBreakpoints: true,
+                                    responsiveBreakpoints: {
+                                        portrait: {
+                                            changePoint: 480,
+                                            visibleItems: 2
+                                        },
+                                        landscape: {
+                                            changePoint: 640,
+                                            visibleItems: 2
+                                        },
+                                        tablet: {
+                                            changePoint: 768,
+                                            visibleItems: 2
+                                        }
+                                    }
+                                });
 
-                                                        });
+                            });
                         </script>
                         <script type="text/javascript" src="~/js/jquery.flexisel.js"></script>
                         <ul id="flexiselDemo3">
@@ -383,20 +362,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <!-- cart-js -->
     <script src="js/minicart.js"></script>
     <script>
-                w3ls1.render();
+        w3ls1.render();
 
-                w3ls1.cart.on('w3sb1_checkout', function (evt) {
-                    var items, len, i;
+        w3ls1.cart.on('w3sb1_checkout', function (evt) {
+            var items, len, i;
 
-                    if (this.subtotal() > 0) {
-                    items = this.items();
+            if (this.subtotal() > 0) {
+                items = this.items();
 
-                        for (i = 0, len = items.length; i < len; {
+                for (i = 0, len = items.length; i < len; i++) {
                     items[i].set('shipping', 0);
-                            items[i].set('shipping2', 0);
-                        }
-                    }
-                });
+                    items[i].set('shipping2', 0);
+                }
+            }
+        });
     </script>
     <!-- //cart-js -->
 </body>
