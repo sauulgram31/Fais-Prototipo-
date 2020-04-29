@@ -27,7 +27,10 @@ namespace FAIS_PROTOTIPO_.Controllers
         {
             return View();
         }
-
+        public IActionResult Individual()
+        {
+            return View();
+        }
         public IActionResult Contactanos()
         {
             return View();

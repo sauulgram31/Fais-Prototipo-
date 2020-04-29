@@ -310,3 +310,4 @@ C:\Users\Irvin\Downloads\FAIS(PROTOTIPO)\Fais-Prototipo-\obj\Debug\netcoreapp3.0
 C:\Users\Irvin\Downloads\FAIS(PROTOTIPO)\Fais-Prototipo-\obj\Debug\netcoreapp3.0\FAIS(PROTOTIPO).dll
 C:\Users\Irvin\Downloads\FAIS(PROTOTIPO)\Fais-Prototipo-\obj\Debug\netcoreapp3.0\FAIS(PROTOTIPO).pdb
 C:\Users\Irvin\Downloads\FAIS(PROTOTIPO)\Fais-Prototipo-\obj\Debug\netcoreapp3.0\FAIS(PROTOTIPO).genruntimeconfig.cache
+C:\Users\Irvin\Downloads\FAIS(PROTOTIPO)\Fais-Prototipo-\obj\Debug\netcoreapp3.0\Razor\Views\Home\Individual.cshtml.g.cs
