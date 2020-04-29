@@ -8146,23 +8146,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Irvin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\Irving9801\\Fais-Prototipo-\\FAIS(PROTOTIPO).csproj",
+      "projectUniqueName": "C:\\Users\\Irvin\\Source\\Repos\\Irving9801\\Fais-Prototipo-\\FAIS(PROTOTIPO).csproj",
       "projectName": "FAIS(PROTOTIPO)",
-      "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\Irving9801\\Fais-Prototipo-\\FAIS(PROTOTIPO).csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\Irving9801\\Fais-Prototipo-\\obj\\",
+      "projectPath": "C:\\Users\\Irvin\\Source\\Repos\\Irving9801\\Fais-Prototipo-\\FAIS(PROTOTIPO).csproj",
+      "packagesPath": "C:\\Users\\Irvin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Irvin\\Source\\Repos\\Irving9801\\Fais-Prototipo-\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Irvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8241,7 +8237,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

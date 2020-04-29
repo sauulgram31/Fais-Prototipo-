@@ -35,8 +35,12 @@ namespace FAIS_PROTOTIPO_.Controllers
         {
             return View();
         }
+        public IActionResult Mantenimiento()
+        {
+            return View();
+        }
 
-        
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
